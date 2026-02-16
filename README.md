@@ -106,3 +106,9 @@ Order ──> applyDiscount(...)
 
 Для проверки задания используйте команду:
 ./gradlew verifyHomework
+
+
+Результаты выполнения Unit тестов:
+
+<img src="images/test.png" alt="Результаты тестов" width="600">
+
